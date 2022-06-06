@@ -2,14 +2,7 @@
     <head>
         <title>Meu primeiro site em PHP</title>
         <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-        <style type="text/class">
-            .linha {
-                font-weight: bold;
-                color: green;
-                padding-left: 10px;
-                line-height: 50px;                
-            }
-        </style>
+        <link rel="stylesheet" href="css/styles.css">
     </head>
     <body>
         <?php
